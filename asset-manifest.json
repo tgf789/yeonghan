@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/yeonghan/static/css/main.1fb33103.css",
-    "main.js": "/yeonghan/static/js/main.34f10491.js",
+    "main.js": "/yeonghan/static/js/main.e1a06f19.js",
     "static/js/787.1d06a10c.chunk.js": "/yeonghan/static/js/787.1d06a10c.chunk.js",
     "static/media/mainImage.jpg": "/yeonghan/static/media/mainImage.27389f32c8435b5452d0.jpg",
     "static/media/hood1.png": "/yeonghan/static/media/hood1.c40799a3e51a60e0ca4d.png",
@@ -28,11 +28,11 @@
     "index.html": "/yeonghan/index.html",
     "static/media/GitIcon.svg": "/yeonghan/static/media/GitIcon.43d387b77657117c0e407816cbf72476.svg",
     "main.1fb33103.css.map": "/yeonghan/static/css/main.1fb33103.css.map",
-    "main.34f10491.js.map": "/yeonghan/static/js/main.34f10491.js.map",
+    "main.e1a06f19.js.map": "/yeonghan/static/js/main.e1a06f19.js.map",
     "787.1d06a10c.chunk.js.map": "/yeonghan/static/js/787.1d06a10c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1fb33103.css",
-    "static/js/main.34f10491.js"
+    "static/js/main.e1a06f19.js"
   ]
 }
